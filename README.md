@@ -6,10 +6,12 @@
 - 🎮 Gosto de jogos: escape, sudoku, fps, rpg, entre outros.
 - ♀️ Pronouns: ela/dela.
 
-<hr>  
+##  
 <div align="center">
   <a href="https://github.com/MillaMachado">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MillaMachado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MillaMachado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/></a>   <br>
+  <hr>
+  <a href="https://github.com/MillaMachado">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt"/></a>
 </div>
   
