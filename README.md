@@ -7,9 +7,10 @@
   
  <div align="center"><a href="https://github.com/MillaMachado">
   <img align="left" alt="Milla-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1547002/183770258-a8451845-1fb4-47f4-a140-9f76253e62cb.png">
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=MillaMachado&theme=cobalt&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D"/>
   <img align="right" alt="Milla-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1547002/183770258-a8451845-1fb4-47f4-a140-9f76253e62cb.png">
   
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=MillaMachado&theme=cobalt&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D"/></a>
+  </a>
 </div>
 
 <div align="center" style="display: inline_block">
