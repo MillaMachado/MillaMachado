@@ -1,4 +1,4 @@
-## Oi, eu sou a Camilla Machado!👍 
+## $$\textcolor{pink}{\text{Oi, eu sou a Camilla Machado}}$$ 
 
 <div align="center">
   <a href="https://github.com/MillaMachado">
