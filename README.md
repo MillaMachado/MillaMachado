@@ -1,4 +1,4 @@
-## Oi, eu sou a Camilla Machado!👍 <img align="right" alt="Milla-pic" height="150" style="border-radius:50px;" src="">
+## Oi, eu sou a Camilla Machado!👍 <img align="right" alt="Milla-pic" height="190" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1547002/183754643-b0dadde1-c8af-4d97-b2ac-bfd1f6fe563f.jpg">
 
 - 😁 Atualmente trabalho na área financeira.
 - 🤓 Sou formada em Análise de Sistemas
@@ -34,5 +34,6 @@
   <a href = "mailto:camillamac10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/camilla-machado-602b3b69/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+ ![Snake animation](https://github.com/MillaMachado/MillaMachado/blob/output/github-contribution-grid-snake.svg)
  
 </div>
