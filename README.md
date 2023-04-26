@@ -2,8 +2,9 @@
 
 <div align="center">
  <a href="https://github.com/MillaMachado">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MillaMachado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt"/>
- <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt](https://github-readme-streak-stats.herokuapp.com/?user=MillaMachado&theme=dark)"/></a> 
+ <img height="150em" src="https://github-readme-stats-seven-kappa-21.vercel.app/api?username=MillaMachado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  
+ <img height="150em" src="https://github-readme-stats-seven-kappa-21.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt"/>
+ <img height="150em" src="[https://github-readme-stats-seven-kappa-21.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt](https://github-readme-streak-stats.herokuapp.com/?user=MillaMachado&theme=dark)"/></a> 
   <hr> </div>
   
  <div align="center"><a href="https://github.com/MillaMachado">
