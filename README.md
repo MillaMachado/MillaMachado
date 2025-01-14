@@ -1,11 +1,4 @@
 ## $$\textcolor{pink}{\text{Oi, eu sou a Camilla Machado}}$$ 
-
-<div align="center">
- <a href="https://github.com/MillaMachado">
- <img height="150em" src="https://github-readme-stats-seven-kappa-21.vercel.app/api?username=MillaMachado&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  
- <img height="150em" src="https://github-readme-stats-seven-kappa-21.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt"/>
- <img height="150em" src="[https://github-readme-stats-seven-kappa-21.vercel.app/api/top-langs/?username=MillaMachado&layout=compact&langs_count=7&theme=cobalt](https://github-readme-streak-stats.herokuapp.com/?user=MillaMachado&theme=dark)"/></a> 
-  <hr> </div>
   
  <div align="center"><a href="https://github.com/MillaMachado">
   <img align="left" alt="Milla-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1547002/183770258-a8451845-1fb4-47f4-a140-9f76253e62cb.png">
