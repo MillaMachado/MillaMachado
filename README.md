@@ -1,4 +1,4 @@
-## $$\textcolor{pink}{\text{Oi, eu sou a Camilla Machado}}$$ 
+✨ ## $$\textcolor{pink}{\text{Hi, I'm Camilla.}}$$ ✨ 
   
  <div align="center"><a href="https://github.com/MillaMachado">
   <img align="left" alt="Milla-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/1547002/183770258-a8451845-1fb4-47f4-a140-9f76253e62cb.png">
